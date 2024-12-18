@@ -1,0 +1,11 @@
+{
+  "elasticsearch": {
+    "hosts": ["https://1075c96a16214039a38b606383d2a057.eu-west-1.aws.found.io"],
+    "api_key": "VE5ybEdwSUJGd1Y5UzBkTTU5QnU6NURUTDJ5ZEVSYmlUUVAtQ2xMUzAtQQ==",
+    "api_key_base64": ""
+  },
+  "output_file": "duplicates.csv",
+  "aliases": ["orderdetails-2-prod"],
+  "page_size": 10000,
+  "scroll_time": "2m"
+}

@@ -1,0 +1,10 @@
+{
+  "elasticsearch": {
+    "hosts": ["ESHOST"],
+    "api_key": "API_KEY_IN_BASE64_FORMAT"
+  },
+  "output_file": "duplicates.csv",
+  "aliases": ["ALIASES_TO_SEARCH"],
+  "page_size": 10000,
+  "scroll_time": "2m"
+}

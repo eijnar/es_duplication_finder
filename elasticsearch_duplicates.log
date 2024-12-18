@@ -1,0 +1,27 @@
+2024-09-27 10:17:44,035 - INFO - Starting the process to check for duplicates
+2024-09-27 10:17:44,035 - INFO - Loading configuration from config.json
+2024-09-27 10:17:44,036 - INFO - Configuration loaded successfully
+2024-09-27 10:17:44,036 - INFO - Initializing Elasticsearch client
+2024-09-27 10:17:44,055 - INFO - Starting duplicate detection process for alias: orderdetails-2-prod
+2024-09-27 10:17:44,055 - INFO - Starting scroll search for alias: orderdetails-2-prod with page_size=10000 and scroll_time=2m
+2024-09-27 10:17:44,309 - ERROR - Authentication failed: Please check your API key or credentials.
+2024-09-27 10:21:27,542 - INFO - Starting the process to check for duplicates
+2024-09-27 10:21:27,542 - INFO - Loading configuration from config.json
+2024-09-27 10:21:27,542 - INFO - Configuration loaded successfully
+2024-09-27 10:21:27,542 - INFO - Initializing Elasticsearch client
+2024-09-27 10:21:27,563 - INFO - Starting duplicate detection process for alias: orderdetails-2-prod
+2024-09-27 10:21:27,564 - INFO - Starting scroll search for alias: orderdetails-2-prod with page_size=10000 and scroll_time=2m
+2024-09-27 10:21:27,867 - ERROR - Authentication failed: Please check your API key or credentials.
+2024-09-27 10:21:27,867 - INFO - Completed duplicate detection for alias: orderdetails-2-prod
+2024-09-27 10:21:27,867 - INFO - Completed processing for all aliases
+2024-09-27 10:21:27,867 - INFO - Completed processing for all aliases
+2024-09-27 10:24:15,453 - INFO - Starting the process to check for duplicates
+2024-09-27 10:24:15,453 - INFO - Loading configuration from config.json
+2024-09-27 10:24:15,453 - INFO - Configuration loaded successfully
+2024-09-27 10:24:15,453 - INFO - Initializing Elasticsearch client
+2024-09-27 10:24:15,475 - INFO - Starting duplicate detection process for alias: orderdetails-2-prod
+2024-09-27 10:24:15,475 - INFO - Starting scroll search for alias: orderdetails-2-prod with page_size=10000 and scroll_time=2m
+2024-09-27 10:24:15,732 - ERROR - Authentication failed: Please check your API key or credentials.
+2024-09-27 10:24:15,732 - INFO - Completed duplicate detection for alias: orderdetails-2-prod
+2024-09-27 10:24:15,732 - INFO - Completed processing for all aliases
+2024-09-27 10:24:15,732 - INFO - Completed processing for all aliases
